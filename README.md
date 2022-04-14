@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilfriedVanDyk
 - 👀 I’m interested in physical therapy (cerebral palsy), and It (python, excel, using visual studio code, github)
-- 🌱 I’m currently learning python object oriented programming, openpyxl, pandas and data science engineering (Deitel)
-- 💞️ I’m looking to collaborate on nothin yet. but thinking about using sensors(emg) combined with games in raspberry pi
+- 🌱 I’m currently learning python object oriented programming, openpyxl, pandas and data science engineering (Deitel) in my sparetime
+- 💞️ I’m looking to collaborate on nothin yet. (dreaming about using sensors(emg) combined with games in raspberry pi)
 - 📫 How to reach me: wilfriedvandyk@gmail.com
 
 <!---
