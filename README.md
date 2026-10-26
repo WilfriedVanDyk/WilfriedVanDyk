@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilfriedVanDyk
-- 👀 I’m interested in physical therapy (cerebral palsy), and It (javascript, python, office add-in, excel, using visual studio code, github)
-- 🌱 I'm working on automating excel, xlwings, copilot, powerautomate
+- 👀 I’m interested in physical therapy (cerebral palsy), and the use of ai to automate processes
+- 🌱 I'm working on automating excel, copilot, powerautomate
 - 💞️ I’m looking to collaborate on nothin yet. 
 - 📫 How to reach me: wilfriedvandyk@gmail.com
 
